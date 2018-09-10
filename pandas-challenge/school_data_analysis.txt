@@ -1,0 +1,5 @@
+1. Looking at school data, all top performing schools are charter schools and all bottom schools are district schools.
+2. Schools at bottom list, fall in larger size category, but top performing schools range between Medium to larger.
+3. Interestingly, top most performing school spends lesser per student compared to least performing schools.
+
+Thanks
